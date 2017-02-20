@@ -1,0 +1,14 @@
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\obj\Debug\SP.General.ServiciosWeb.csprojResolveAssemblyReference.cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.ServiciosWeb.dll.config
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.ServiciosWeb.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.ServiciosWeb.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.AccesoDatos.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.IServicios.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.Modelo.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.AccesoDatos.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.IServicios.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\bin\SP.General.Modelo.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\obj\Debug\SP.General.ServiciosWeb.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.ServiciosWeb\obj\Debug\SP.General.ServiciosWeb.pdb

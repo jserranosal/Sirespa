@@ -1,0 +1,7 @@
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\obj\Debug\SP.General.IServicios.csprojResolveAssemblyReference.cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\bin\Debug\SP.General.IServicios.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\bin\Debug\SP.General.IServicios.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\bin\Debug\SP.General.Modelo.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\bin\Debug\SP.General.Modelo.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\obj\Debug\SP.General.IServicios.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.IServicios\obj\Debug\SP.General.IServicios.pdb
