@@ -1,0 +1,14 @@
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\bin\Debug\SP.General.Catalogo.exe.config
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\bin\Debug\SP.General.Catalogo.exe
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\bin\Debug\SP.General.Catalogo.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.csprojResolveAssemblyReference.cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\MainWindow.g.cs
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\App.g.cs
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo_MarkupCompile.cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo_MarkupCompile.lref
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\MainWindow.baml
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.g.resources
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.Properties.Resources.resources
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.csproj.GenerateResource.Cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.exe
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.Catalogo\obj\Debug\SP.General.Catalogo.pdb

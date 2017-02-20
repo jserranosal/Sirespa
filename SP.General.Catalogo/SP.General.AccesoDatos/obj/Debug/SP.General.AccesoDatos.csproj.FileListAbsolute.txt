@@ -1,0 +1,9 @@
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\SP.General.AccesoDatos.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\SP.General.AccesoDatos.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\SP.General.Modelo.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\bin\Debug\SP.General.Modelo.pdb
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\obj\Debug\SP.General.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\obj\Debug\SP.General.AccesoDatos.dll
+C:\_JorchNG\PruebaERP\CatalogoTest\SP.General.Catalogo\SP.General.AccesoDatos\obj\Debug\SP.General.AccesoDatos.pdb
